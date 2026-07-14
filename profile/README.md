@@ -25,7 +25,7 @@ Komm auf unseren Server und werde Teil der Community.
 ---
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1162066475029377164/1323995500701155430/FD_Logo.png?ex=6a446326&is=6a4311a6&hm=d06b55576f2288436b8a2469f52f16ca222e9e8f3372ffa7d95149b439c68a91&animated=true" alt="Free Designs" width="80">
+  <img src="https://raw.githubusercontent.com/freedesignsdev/.github/main/profile/assets/logo.webp" alt="Free Designs" width="80">
   <br>
   <sub>© Free Designs</sub>
 </p>
