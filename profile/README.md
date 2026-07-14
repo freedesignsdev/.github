@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1162066475029377164/1262571209002848348/image.png?ex=6a446391&is=6a431211&hm=8f8ad546da323193d7d254399c6237acc7c39289a586477da124e7a3c1d5f301&animated=true" alt="Free Designs" width="100%">
+  <img src="https://raw.githubusercontent.com/freedesignsdev/.github/main/profile/assets/banner.webp" alt="Free Designs" width="100%">
 </p>
 
 <h1 align="center">Free Designs</h1>
