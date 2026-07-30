@@ -21,7 +21,7 @@ Unser **Ziel** ist es, der **Community** **einzigartige** und **selbst gestaltet
 Komm auf unseren Server und werde Teil der Community.
 
 <p align="center">
-  <a href="https://discord.gg/VqsE2NGWb5">
+  <a href="https://dsc.gg/freedesign">
     <img src="https://img.shields.io/badge/Discord%20beitreten-B200FF?style=for-the-badge&logo=discord&logoColor=white" alt="Discord beitreten">
   </a>
 </p>
