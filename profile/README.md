@@ -10,7 +10,11 @@
 
 ## Über Free Designs
 
-Free Designs ist eine Discord-Community für alle, die sich für Design begeistern. Bei uns dreht sich alles um Grafiken, Logos und kreative Projekte, egal ob du gerade erst anfängst oder schon länger dabei bist. Wir helfen einander weiter, geben Feedback und teilen, woran wir gerade arbeiten.
+"**Free Designs**" ist ein **kreatives Projekt** aus **Deutschland**, das am **13. August 2023** von unserem **Gründer** @niklas_bodo ins Leben gerufen wurde. Wir stehen für **hochwertige**, **kreative Designs** – komplett **kostenlos** und mit **Leidenschaft** erstellt.
+
+## Was ist das Ziel hinter unserem Projekt?
+
+Unser **Ziel** ist es, der **Community** **einzigartige** und **selbst gestaltete Designs** zur Verfügung zu stellen – ohne störende **Wasserzeichen** und ohne **versteckte Kosten**. Alles bei uns bleibt garantiert ***kostenlos***. Da wir ein **kleines**, **engagiertes Team** sind, fokussieren wir uns aktuell auf **ausgewählte Designbereiche**.
 
 ## Discord beitreten
 
