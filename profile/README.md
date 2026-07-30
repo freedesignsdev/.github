@@ -4,7 +4,7 @@
 
 <h1 align="center">Free Designs</h1>
 
-<p align="center">Deine Designs mit Herz.</p>
+<p align="center">Your designs with heart</p>
 
 ---
 
